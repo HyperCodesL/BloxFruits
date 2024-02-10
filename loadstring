@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HyperCodesL/BloxFruits/main/BloxFruits.lua")()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HyperCodesL/BloxFruits/main/Bloxfruits.lua")()
